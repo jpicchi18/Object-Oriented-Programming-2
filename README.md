@@ -1,5 +1,5 @@
 # Object-Oriented-Programming-2
-Course projects for the UCLA course "Introduction to Computer Science II". All projects were implemented using C++
+Course projects for the UCLA course "Introduction to Computer Science II". All projects were implemented in C++.
 
 [Macala_Board_Game_with AI_Opponent](https://github.com/jpicchi18/object_oriented_programming_2/tree/master/projects/project_3): Implement a virtual macala board game that can be played on the command line. Also, design a strategic AI player that uses a min-max algorithm and outcome-prediction heuristics to search a game tree and select the most advantageous play.
 
