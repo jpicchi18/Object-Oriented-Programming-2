@@ -9,4 +9,4 @@ Course projects for the UCLA course "Introduction to Computer Science II"
 
 [Sequences](https://github.com/ankushbharadwaj/UCLA-CS-32/tree/master/Sequence): Create a sequence of items of a user-defined data type using the following implementations: dynamically allocated arrays and circularly linked lists.
 
-[Diff_File_Generator_and_Patcher](https://github.com/ankushbharadwaj/UCLA-CS-32/tree/master/Diff%20File%20Creator): Design and implement a hash table and an associated hash function to generate a diff file, given the original and revised files. Also, patch the original file to generate the revised file, given the original file and the diff file.
+[Diff_File_Generator_and_Patcher](https://github.com/jpicchi18/object_oriented_programming_2/tree/master/projects/project_4): Design and implement a hash table and an associated hash function to generate a diff file, given the original and revised files. Also, patch the original file to generate the revised file, given the original file and the diff file.
